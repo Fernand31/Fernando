@@ -1,0 +1,48 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-image: url(imagenes/apple-logo-lighten-4k-8n-1080x23407206.jpg);
+    margin:auto;
+}
+h1{
+    text-align:center;
+    font-size: 60px;
+    color: white
+}
+ul li{
+    display: inline;
+    padding: 10px;
+    border: 3px solid white;
+    border-radius: 0px 20px;
+    background-color: white;
+}
+a{
+    color: black;
+    text-decoration: none;
+font-size: 20px;
+}
+h2{
+    background-color : #500000;
+    padding: 10px;
+    font-size: 30px;
+    border: 0px solid white;
+    border-radius: 40px 40px 0px 0px;
+    text-align:center;
+}
+p{
+    font-size: 20px;
+    background-color : white;
+    padding: 15px;
+    text-align: justify;
+    border-radius: 40px 0px;
+}
+li:hover{
+    background-color : cornflowerblue
+}
+a:hover{
+    color: white
+}
+a:active{
+    color: chartreuse
+}

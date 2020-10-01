@@ -1,0 +1,52 @@
+#t1 {
+    
+    height: 5%pX;
+    width: 5%px; }
+
+img {
+    height: 5%pX;
+    width: 5%px;
+    margin: auto;
+    border-radius: 100%;
+    float: left;
+    box-shadow: 5px 5px 0px rgba(85, 65, 0, 87);
+    padding: 10px;
+    border: 2px solid rgba(242, 32, 32, 0.87);
+}
+#t2 {
+    
+     height: 5%pX;
+     width: 5%px; 
+}
+img {
+    background-color: rgba(255, 39, 39, 0.88)
+    height: 5%pX;
+    width: 115%px;
+    margin: auto;
+    border-radius: 100%;
+    float: left;
+    box-shadow: 5px 5px #000;
+    padding: 10px;
+    border: 2px solid #000;
+}
+footer{
+        background-color: #ffcc00
+           height: auto;
+    width: 5% px;
+    margin: auto;
+    border-radius: 35%;
+    box-shadow: 8px 5px 3px #00ff0a; 
+    padding: 15px;
+    border: 3px solid #00ffe2;
+    float: left;
+    float: left;
+    
+}
+.caja{
+    position: absolute
+    top:300%;
+    right: 20;
+    left: 20%;
+    bottom: 300%;
+    
+}
